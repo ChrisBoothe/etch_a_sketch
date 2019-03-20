@@ -17,9 +17,7 @@ body {
     width: 500px;
     display: grid;
     border: solid black;
-    grid-template-columns: repeat(20, 1fr);     
-    grid-template-rows: repeat(20, 1fr);
-    
+    background-color:white;
 }
 
 .square {
@@ -37,5 +35,4 @@ body {
     display: block;
     margin: 0 auto;
     margin-top: 30px;
-    
 }
